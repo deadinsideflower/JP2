@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {"start": "node bot.js"},
   "author": "Pioter i zdechly w srodku kwiatek",
   "license": "ISC",
   "dependencies": {
